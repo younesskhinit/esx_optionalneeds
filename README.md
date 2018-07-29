@@ -16,3 +16,13 @@ git clone https://github.com/FXServer-ESX/fxserver-esx_optionalneeds esx_optiona
 ```
 start esx_optionalneeds
 ```
+
+If you Want to use esx_unicorn job item delete this in server/main.lua
+
+```
+--[[(delete me)
+```
+AND
+```
+--]]--delete me
+```
